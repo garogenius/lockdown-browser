@@ -31,7 +31,7 @@ A secure, full-screen browser application built with Electron that restricts bro
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/lockdown-browser.git
+   git clone https://github.com/garogenius/lockdown-browser.git
    cd lockdown-browser
    \`\`\`
 
